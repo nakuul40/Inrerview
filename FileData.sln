@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31410.357
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileData", "FileData\FileData.csproj", "{66BAF37D-5095-498C-A988-0FD52F25C096}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThirdPartyTools", "ThirdPartyTools\ThirdPartyTools.csproj", "{510149C0-2B4D-4F90-BA91-26BD0BBDD0F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileDataUnitTest", "FileDataUnitTest\FileDataUnitTest.csproj", "{BBE5E7D9-BE8D-45A5-A626-3A19FAE10513}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{510149C0-2B4D-4F90-BA91-26BD0BBDD0F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{510149C0-2B4D-4F90-BA91-26BD0BBDD0F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{510149C0-2B4D-4F90-BA91-26BD0BBDD0F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBE5E7D9-BE8D-45A5-A626-3A19FAE10513}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBE5E7D9-BE8D-45A5-A626-3A19FAE10513}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBE5E7D9-BE8D-45A5-A626-3A19FAE10513}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBE5E7D9-BE8D-45A5-A626-3A19FAE10513}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
